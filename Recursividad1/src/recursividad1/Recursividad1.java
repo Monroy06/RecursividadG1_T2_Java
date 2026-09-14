@@ -6,7 +6,7 @@ package recursividad1;
 
 /**
  *
- * @author omarv
+ * @author lopez
  */
 public class Recursividad1 {
 
